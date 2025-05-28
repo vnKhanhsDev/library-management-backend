@@ -1,6 +1,6 @@
 # Library Management System API
 
-A RESTful API for managing a library system, built with Spring Boot, Spring Data JPA, and MySQL.
+A backend RESTful API system that allows librarians to manage books, borrowers, and borrowing records.
 
 ## Technologies Used
 
